@@ -1,0 +1,17 @@
+{
+    "name": "jula/think-auth",
+    "description": "auth package for thinkphp5",
+    "authors": [
+        {
+            "name": "jula",
+            "email": "tthd@163.com"
+        }
+    ],
+    "license": "Apache-2.0",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "think\\auth\\": "src/"
+        }
+    }
+}
